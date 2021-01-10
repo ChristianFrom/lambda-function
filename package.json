@@ -1,0 +1,11 @@
+{
+    "name": "firestore-on-lambda",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "postinstall": "npm rebuild"
+    },
+    "dependencies": {
+        "firebase-admin": "^5.4.2"
+    }
+}
